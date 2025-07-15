@@ -1,0 +1,10 @@
+{
+  "AUTH0_DOMAIN": "mbh-paid-2.us.auth0.com",
+  "AUTH0_CLIENT_ID": "KYdbe2kvfS9PdlhpkDiT8WSyZ0i0NxGa",
+  "AUTH0_CLIENT_SECRET": "8yL_1AB4kGoHvNIuv8AFQZ_IJ7envbxIjteWmgXJP5U6vUC9vS1e1wtL_iRqB0z7",
+  "AUTH0_ALLOW_DELETE": false,
+  "AUTH0_PRESERVE_KEYWORDS": true,
+  "AUTH0_KEYWORD_REPLACE_MAPPINGS": {
+    "AUDIENCE": "https://my_audience"
+  }
+}
