@@ -5,6 +5,6 @@
   "AUTH0_ALLOW_DELETE": false,
   "AUTH0_PRESERVE_KEYWORDS": true,
   "AUTH0_KEYWORD_REPLACE_MAPPINGS": {
-    "AUDIENCE": "https://mbh-paid-2.us.auth0.com/api/v2/"
+    "AUDIENCE": "AUDIENCE"
   }
 }
